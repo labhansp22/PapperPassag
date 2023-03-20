@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86559353640",
+    "project_id": "gateprep-53b1e",
+    "storage_bucket": "gateprep-53b1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86559353640:android:c7f6c9a9579e2079953e1d",
+        "android_client_info": {
+          "package_name": "com.example.gateprep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86559353640-gjt86ip7fa43kkgq7n9f1aii5mu8jhob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGS01-OGf-Q-K4uZp_XDF_dA0AroR-spU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86559353640-gjt86ip7fa43kkgq7n9f1aii5mu8jhob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
